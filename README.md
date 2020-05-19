@@ -5,7 +5,7 @@ __Web-service (Goodle App Engine)__
 
 CF stands for Cassia fistula, the national tree and national flower of Thailand. We originally aim to annotate syntactic trees for Thai language by composing a metaphor that we are planting trees for our nation towards Thai Computational Linguistics advancement.
 
-To fasten syntactic structure construction, particularly syntactic treebank, we willingly introduce a so-called CFParser, web-service for syntactic parsing to exclusively integrates with **[CFPlanter.org](https://cfplanter.org)**, implement with passion for researchers and enthusiasts. 
+To fasten syntactic structure construction, particularly syntactic treebank, we willingly introduce a so-called CFParser, web-service for syntactic parsing to exclusively integrates with **[CFPlanter.aiat.or.th](https://cfplanter.aiat.or.th)**, implement with passion for researchers and enthusiasts. 
 
 ### Requirements
 
